@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mariza/SDKs/artoolkit5-master/AndroidStudioProjects/ARMovieProj/aRMovie/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/mariza/SDKs/artoolkit5-master/AndroidStudioProjects/ARMovieProj/aRMovie/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_8bb83b86aeee922e2e422b121dc91b1c57385cd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariza/AndroidStudioProjects/ARMovie/ARMovieProj/aRMovie/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/mariza/AndroidStudioProjects/ARMovie/ARMovieProj/aRMovie/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_c0ee151152a43e32f7b750cf1c0bcfa1fb0e6681.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariza/SDKs/artoolkit5-master/AndroidStudioProjects/ARMovieProj/aRMovie/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/mariza/SDKs/artoolkit5-master/AndroidStudioProjects/ARMovieProj/aRMovie/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_81dd0759de23cf3c1d793c993819d379e014ef6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariza/AndroidStudioProjects/ARMovie/ARMovieProj/aRMovie/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mariza/AndroidStudioProjects/ARMovie/ARMovieProj/aRMovie/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_def6985cc07ce7dc217d4b42a663a77e20955ede.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariza/SDKs/artoolkit5-master/AndroidStudioProjects/ARMovieProj/aRMovie/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/mariza/SDKs/artoolkit5-master/AndroidStudioProjects/ARMovieProj/aRMovie/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_2a8e7eac204bf8295be543a2b5c56f611b68ee08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariza/AndroidStudioProjects/ARMovie/ARMovieProj/aRMovie/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/mariza/AndroidStudioProjects/ARMovie/ARMovieProj/aRMovie/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_e7f1add6771d2ad3fa5995b07d7203c1520409d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariza/SDKs/artoolkit5-master/AndroidStudioProjects/ARMovieProj/aRMovie/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mariza/SDKs/artoolkit5-master/AndroidStudioProjects/ARMovieProj/aRMovie/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_2a5703a5381930202e50882fdcbd8322be31c915.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariza/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/mariza/SDKs/artoolkit5-master/AndroidStudioProjects/ARMovieProj/aRMovie/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_ca468871f09405ee74aef2b996a35dbbdfed93a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariza/AndroidStudioProjects/ARMovie/ARMovieProj/aRMovie/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/mariza/AndroidStudioProjects/ARMovie/ARMovieProj/aRMovie/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_caa8ba2ff5e013c790e7985649610f206c67f5f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariza/AndroidStudioProjects/ARMovie/ARMovieProj/aRMovie/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/mariza/AndroidStudioProjects/ARMovie/ARMovieProj/aRMovie/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_272f41fbb9dc54d45875e0caca955ec5e1efa19c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariza/SDKs/artoolkit5-master/AndroidStudioProjects/ARMovieProj/aRMovie/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/mariza/SDKs/artoolkit5-master/AndroidStudioProjects/ARMovieProj/aRMovie/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_cd923796c6c8d992ee499ffdf1da293171700354.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariza/SDKs/artoolkit5-master/AndroidStudioProjects/ARMovieProj/aRMovie/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/mariza/SDKs/artoolkit5-master/AndroidStudioProjects/ARMovieProj/aRMovie/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_551aab3e4d132505e82bb9c4cc145fa302d988d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariza/SDKs/artoolkit5-master/AndroidStudioProjects/ARMovieProj/aRMovie/build/intermediates/exploded-aar/ARMovieProj/aRBaseLib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3316e78e65198d348371cab9d4895b313fc6e0f6">
+        <dex dex="/Users/mariza/SDKs/artoolkit5-master/AndroidStudioProjects/ARMovieProj/aRMovie/build/intermediates/pre-dexed/debug/ARMovieProj-aRBaseLib-unspecified_7dcc633049cef3d4cd64b2eb786e27569b4b9fca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariza/SDKs/artoolkit5-master/AndroidStudioProjects/ARMovieProj/aRMovie/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/mariza/SDKs/artoolkit5-master/AndroidStudioProjects/ARMovieProj/aRMovie/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_7dbf0788ee9942df337258a56b9a61cdc158ec73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariza/SDKs/artoolkit5-master/AndroidStudioProjects/ARMovieProj/aRMovie/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/mariza/SDKs/artoolkit5-master/AndroidStudioProjects/ARMovieProj/aRMovie/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_98e64e66939bea873f2e7bf733152289aabcb8c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariza/SDKs/artoolkit5-master/AndroidStudioProjects/ARMovieProj/aRMovie/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/mariza/SDKs/artoolkit5-master/AndroidStudioProjects/ARMovieProj/aRMovie/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_7f034f0279cfa042c4387b8f0d0484b62e3f6bd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariza/AndroidStudioProjects/ARMovie/ARMovieProj/aRMovie/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/mariza/AndroidStudioProjects/ARMovie/ARMovieProj/aRMovie/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_73d9fc0c5c1cc9f0fb6e130146001232f358f6f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariza/AndroidStudioProjects/ARMovie/ARMovieProj/aRMovie/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/mariza/AndroidStudioProjects/ARMovie/ARMovieProj/aRMovie/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_0d87a9ca75eb2ffd91f68135a0a46700f851a18d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariza/AndroidStudioProjects/ARMovie/ARMovieProj/aRMovie/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/mariza/AndroidStudioProjects/ARMovie/ARMovieProj/aRMovie/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_7712f70cb0e34b94fa3d1e86d70dc0a435ccf6a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariza/AndroidStudioProjects/ARMovie/ARMovieProj/aRMovie/build/intermediates/exploded-aar/ARMovieProj/aRBaseLib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3316e78e65198d348371cab9d4895b313fc6e0f6">
+        <dex dex="/Users/mariza/AndroidStudioProjects/ARMovie/ARMovieProj/aRMovie/build/intermediates/pre-dexed/debug/ARMovieProj-aRBaseLib-unspecified_8ab6a9db575fe4e226660e374fc9b428d977f06b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariza/AndroidStudioProjects/ARMovie/ARMovieProj/aRMovie/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/mariza/AndroidStudioProjects/ARMovie/ARMovieProj/aRMovie/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_ca2a378502d2558c4bc5c2ff8b41915a641452c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariza/AndroidStudioProjects/ARMovie/ARMovieProj/aRMovie/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/mariza/AndroidStudioProjects/ARMovie/ARMovieProj/aRMovie/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_48e3176780b17a60903ca536461e81f26d316c9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariza/SDKs/artoolkit5-master/AndroidStudioProjects/ARMovieProj/aRMovie/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/mariza/SDKs/artoolkit5-master/AndroidStudioProjects/ARMovieProj/aRMovie/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_a2a4b3b223999e8f95299e8616faa95284e6b8cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariza/SDKs/artoolkit5-master/AndroidStudioProjects/ARMovieProj/aRMovie/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/mariza/SDKs/artoolkit5-master/AndroidStudioProjects/ARMovieProj/aRMovie/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_b0e502914d5c375f3099e9588c88abbdac03ead5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariza/SDKs/artoolkit5-master/AndroidStudioProjects/ARMovieProj/aRMovie/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/mariza/SDKs/artoolkit5-master/AndroidStudioProjects/ARMovieProj/aRMovie/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_89cd7a6aa4d93e6d4a3b509edd1903ecce6277c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariza/AndroidStudioProjects/ARMovie/ARMovieProj/aRMovie/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/mariza/AndroidStudioProjects/ARMovie/ARMovieProj/aRMovie/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_4d7beb788a89deffad043054dbbcce2a09123a0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariza/SDKs/artoolkit5-master/AndroidStudioProjects/ARMovieProj/aRMovie/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/mariza/SDKs/artoolkit5-master/AndroidStudioProjects/ARMovieProj/aRMovie/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_ec2d614fc1e1d3ae8527a2344c4e5850bbe7a4de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariza/SDKs/artoolkit5-master/AndroidStudioProjects/ARMovieProj/aRMovie/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/mariza/SDKs/artoolkit5-master/AndroidStudioProjects/ARMovieProj/aRMovie/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_893ef13ae15c9922874110cabe58c5181d2f07fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariza/AndroidStudioProjects/ARMovie/ARMovieProj/aRMovie/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/mariza/AndroidStudioProjects/ARMovie/ARMovieProj/aRMovie/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_13fc0b79df88d331fadebc3babd6d50008e92e20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariza/AndroidStudioProjects/ARMovie/ARMovieProj/aRMovie/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/mariza/AndroidStudioProjects/ARMovie/ARMovieProj/aRMovie/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_3d06febffdecf657f5840f444a5de2e75030ddb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariza/AndroidStudioProjects/ARMovie/ARMovieProj/aRMovie/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/mariza/AndroidStudioProjects/ARMovie/ARMovieProj/aRMovie/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_bafe17f4b1a9ffcb7ebaaafd6a2f6c5ae622f35f.jar" />
+    </item>
+
+</items>
